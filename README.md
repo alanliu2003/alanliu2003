@@ -1,6 +1,6 @@
 # Hi, I'm Alan Liu 👋
 
-I’m a developer who enjoys building practical, data-driven applications—from full-stack web products and AI-assisted analytics to interactive games and simulations. My recent work focuses on creating reliable developer-friendly systems with thoughtful user experiences.
+I’m a developer who enjoys building practical, data-driven applications—from full-stack web products and AI-assisted analytics to interactive games and simulations. My recent work focuses on creating reliable, user-centered tools that turn data into useful insights.
 
 ## What I’m working on
 
@@ -65,6 +65,7 @@ Course and personal projects exploring interactive game development, including P
 
 - 💬 Explore my projects and feel free to open an issue or discussion in a repository.
 - 📫 You can find me here on GitHub: [@alanliu2003](https://github.com/alanliu2003)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/tongyu-liu-173364253/)
 
 ---
 
