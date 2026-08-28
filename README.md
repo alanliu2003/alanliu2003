@@ -1,10 +1,11 @@
 # Hi, I'm Alan Liu 👋
 
-I’m a developer who enjoys building practical, data-driven applications—from full-stack web products and AI-assisted analytics to interactive games and simulations. My recent work focuses on creating reliable, user-centered tools that turn data into useful insights.
+I'm a developer who enjoys building practical, data-driven applications—from full-stack web products and AI-assisted analytics to interactive games and simulations. My recent work focuses on creating performant, scalable systems with polished user experiences.
 
-## What I’m working on
+## What I'm working on
 
 - 🎮 Building **[League Helper](https://github.com/alanliu2003/league-helper)**, a League of Legends analytics and AI-coaching platform.
+- 🎥 Developing **[Kiki Video Platform](https://github.com/alanliu2003/kiki-video-platform)**, a modern video streaming application.
 - 📊 Exploring end-to-end product development: data ingestion, analytics, background jobs, APIs, and polished web interfaces.
 - 🧠 Applying AI as an interpretation layer on top of transparent, deterministic analytics.
 
@@ -19,6 +20,15 @@ A full-stack League of Legends analytics and AI-coaching monorepo. It supports p
 - Redis and BullMQ workers for durable background processing
 - Riot Games API integration and Data Dragon static-data enrichment
 - Shared TypeScript packages, Zod validation, automated tests, and Docker-based local development
+
+### 🎥 [Kiki Video Platform](https://github.com/alanliu2003/kiki-video-platform)
+A modern video streaming platform built with scalable architecture for content discovery and playback.
+
+**Highlights**
+- Full-stack web application with modern frontend and backend
+- Video streaming and playback capabilities
+- Scalable architecture for handling large-scale media content
+- User-friendly interface for content discovery
 
 ### 🛒 [GIX Purchase Tracker](https://github.com/alanliu2003/GIX_Purchase)
 A team purchasing web application for submitting requests, tracking purchase statuses, and managing team budgets.
@@ -61,7 +71,7 @@ Course and personal projects exploring interactive game development, including P
 - Game development and interactive systems
 - Reliable backend architecture and background processing
 
-## Let’s connect
+## Let's connect
 
 - 💬 Explore my projects and feel free to open an issue or discussion in a repository.
 - 📫 You can find me here on GitHub: [@alanliu2003](https://github.com/alanliu2003)
